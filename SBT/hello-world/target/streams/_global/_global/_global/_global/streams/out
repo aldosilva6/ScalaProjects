@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [hello-world / Compile / run] Found inputs: /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/*.{java,scala},/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/java/**/*.{java,scala},/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/resources/**/*,/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/**/*.{java,scala},/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for hello-world/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello-world / Compile / run - Accepted event for /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala (previous stamp: Hash(f00a7a3d0a9a04504f22f412dc24bb22b70e9027), current stamp: Hash(b7176834127c968a85e15a42e28a1a8ce9b382a2))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala, 2020-Jan-29 10:39:20.792 BRT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala, 2020-Jan-29 10:39:20.792 BRT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for hello-world/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mhello-world / Compile / run - Accepted event for /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala (previous stamp: Hash(b7176834127c968a85e15a42e28a1a8ce9b382a2), current stamp: Hash(8b996bfda1a07a80c79d5e9a1a9a9df8232550d6))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala -> Trigger. Returning: (Update(/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala, 2020-Jan-29 10:39:39.489 BRT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/home/aldosilva/GitRepository/ScalaProjects/SBT/hello-world/src/main/scala/Main.scala, 2020-Jan-29 10:39:39.489 BRT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for hello-world/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
